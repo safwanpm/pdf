@@ -4,7 +4,7 @@ import Register from "../components/Register";
 
 function LoginPG() {
   return (
-    <div>
+    <div className="col">
       <Register></Register>
     </div>
   );
